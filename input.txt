@@ -1,0 +1,8 @@
+Shevchenko ; Higher Mathematics ? KN-21 : Hryhorovych ; Taras ? 5 ; 12345678 : 95 ? 38
+O'Neil:Physics:PI-22:Ivanovych:Petro:4:23456789:78:30
+  Kovalenko-Bilyk  ?  "Databases" Theory  ;  KN21a : Olehivna ? Anna-Maria ; 5 : 34567890 ? 100 ; 40
+Bondar ; Algorithms ; KN-21 ; Petrovych ; Ivan ; -1 ; 45678901 ; 90 ; 0
+Melnyk ; Algorithms ; KN-21 ; Petrovych ; Ivan ; 0 ; 56789012 ; 89 ; 0
+Badline ; Algorithms ; KN-21 ; Petrovych ; Ivan ; 1 ; 56789012 ; 95 ; 0
+Toolong ; Algorithms ; KN-2100X ; Petrovych ; Ivan ; 5 ; 56789012 ; 95 ; 0
+Over ; Algorithms ; KN-21 ; Petrovych ; Ivan ; 5 ; 56789012 ; 101 ; 0
